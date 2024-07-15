@@ -3,7 +3,7 @@ This project is used for DevOps Practice - Dockerize and deploy using Jenkins pi
 ## Installation
 1. Clone the repository
 ```
-git clone git@github.com:siddhantbhattarai/Django-Todo-App.git
+git clone git@github.com:velodee/Django-Todo-App.git
 ```
 
 2. Build the app
